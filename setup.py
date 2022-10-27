@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="3D-VQ-VAE-2",
+    name="vqvae3d",
     version="1.0.0",
     author="Robert Jan Schlimbach",
     description="3D VQ-VAE-2 for high-resolution CT scan synthesis",
